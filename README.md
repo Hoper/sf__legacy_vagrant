@@ -1,6 +1,6 @@
 # sf__legacy_vagrant
 
-## Depenses
+## Dependences
 VirtualBox
 
 https://www.oracle.com/ru/virtualization/technologies/vm/downloads/virtualbox-downloads.html
