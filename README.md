@@ -14,7 +14,7 @@ sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(l
 sudo apt-get update && sudo apt-get install vagrant
 ```
 
-## Installation
+## Installation VM
 ```sh
 git clone https://github.com/Hoper/sf__legacy_vagrant
 cd sf__legacy_vagrant
