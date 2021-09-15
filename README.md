@@ -1,11 +1,13 @@
-# sf__legacy_vagrant
+# INSTALL
 
 ## Dependences
 VirtualBox
+Vargant
 
 https://www.oracle.com/ru/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 You need install Vagrant, look here https://www.vagrantup.com/downloads
+### for ubuntu
 ```sh
 curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
 sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
